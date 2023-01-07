@@ -1,0 +1,102 @@
+{
+	"Arizona": {
+		"stateAbr": "AZ",
+		"capital": "Phoenix",
+		"capitalSince": "1889",
+		"rankInState": "1",
+		"rankInUSA": "5",
+		"knownFor": "The Grand Canyon",
+		"teamNFL": "Arizona Cardinals",
+		"teamNBA": "Phoenix Suns"
+	},
+	"California": {
+		"stateAbr": "CA",
+		"capital": "Sacramento",
+		"capitalSince": "1854",
+		"rankInState": "6",
+		"rankInUSA": "35",
+		"knownFor": "Hollywood",
+		"teamNFL": "Los Angeles Rams",
+		"teamNBA": "Los Angeles Lakers"
+	},
+	"Colorado": {
+		"stateAbr": "CO",
+		"capital": "Denver",
+		"capitalSince": "1867",
+		"rankInState": "1",
+		"rankInUSA": "19",
+		"knownFor": "Skiing",
+		"teamNFL": "Denver Broncos",
+		"teamNBA": "Denver Nuggets"
+	},
+	"Florida": {
+		"stateAbr": "FL",
+		"capital": "Tallahassee",
+		"capitalSince": "1824",
+		"rankInState": "7",
+		"rankInUSA": "125",
+		"knownFor": "Theme Parks",
+		"teamNFL": "Miami Dolphins",
+		"teamNBA": "Miami Heat"
+	},
+	"Georgia": {
+		"stateAbr": "GA",
+		"capital": "Atlanta",
+		"capitalSince": "1868",
+		"rankInState": "1",
+		"rankInUSA": "37",
+		"knownFor": "Peaches",
+		"teamNFL": "Atlanta Falcons",
+		"teamNBA": "Atlanta Hawks"
+	},
+	"Illinois": {
+		"stateAbr": "IL",
+		"capital": "Springfield",
+		"capitalSince": "1837",
+		"rankInState": "6",
+		"rankInUSA": "221",
+		"knownFor": "Pizzas",
+		"teamNFL": "Chicago Bears",
+		"teamNBA": "Chicago Bulls"
+	},
+	"New York": {
+		"stateAbr": "NY",
+		"capital": "Albany",
+		"capitalSince": "1797",
+		"rankInState": "6",
+		"rankInUSA": "220",
+		"knownFor": "Times Square",
+		"teamNFL": "Buffalo Bills",
+		"teamNBA": "Brooklyn Nets"
+	},
+	"Ohio": {
+		"stateAbr": "OH",
+		"capital": "Columbus",
+		"capitalSince": "1816",
+		"rankInState": "1",
+		"rankInUSA": "14",
+		"knownFor": "Rocka and Roll Hall of Fame",
+		"teamNFL": "Cleveland Browns",
+		"teamNBA": "Cleveland Cavaliers"
+	},
+	"Pennsylvania": {
+		"stateAbr": "PA",
+		"capital": "Harrisburg",
+		"capitalSince": "1812",
+		"rankInState": "9",
+		"rankInUSA": "130",
+		"knownFor": "The Liberty Bell",
+		"teamNFL": "Pittsburgh Steelers",
+		"teamNBA": "Philadelphia 76ers"
+	},
+	"Washington": {
+		"stateAbr": "WA",
+		"capital": "Olympia",
+		"capitalSince": "1853",
+		"rankInState": "24",
+		"rankInUSA": "191",
+		"knownFor": "Coffee",
+		"teamNFL": "Seattle Seahawks",
+		"teamNBA": "None"
+	}
+}

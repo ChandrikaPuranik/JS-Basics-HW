@@ -5,3 +5,5 @@ var arr = ["Divya", "Aravind", "Rubina", "Rama", "Suriya", "Aishwarya"];
 
 console.log(arr.reduce((a, b) => a.length <= b.length ? a : b))
 
+
+
